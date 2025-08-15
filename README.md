@@ -11,7 +11,6 @@ A MySQL-based Library Management System that enables students to **borrow** and 
 * ✅ **Prevent duplicate borrowing** of the same book without return
 * ✅ **Error handling** for invalid student/book IDs
 * ✅ **Track overdue books and fines** with SQL queries
-* ✅ **Multiple test cases** for both valid and invalid scenarios
 
 ---
 
