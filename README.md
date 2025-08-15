@@ -1,4 +1,4 @@
-# 📚 Library Management System (MySQL + Stored Procedures)
+# 📚 Library Management System (MYSQL)
 
 A MySQL-based Library Management System that enables students to **borrow** and **return** books, with **automatic fine calculation** for late returns. The system ensures **data integrity**, provides **error handling**, and allows tracking of **overdue books and fines**.
 
