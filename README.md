@@ -22,19 +22,11 @@ A MySQL-based Library Management System that enables students to **borrow** and 
 
 ---
 
-## 📂 Database Structure
-
 ### Tables
 
 * `students` – Stores student details
 * `books` – Stores book details with total and available copies
 * `borrow_records` – Tracks borrow and return transactions with fines
-
-### ER Diagram
-
-*(Can be generated in MySQL Workbench using the Reverse Engineer feature)*
-
----
 
 ## ⚡ Stored Procedures
 
