@@ -147,7 +147,7 @@ BEGIN
 END$$
 DELIMITER ;
 
--- ✅ Example Usage of borrow_book and return_book (Highly Mixed Order)
+-- Example Usage of borrow_book and return_book 
 
 -- Rahul borrows first
 CALL borrow_book(1, 1);       
@@ -193,7 +193,7 @@ CALL borrow_book(2, 5);
 CALL return_book(5);          
 
 
--- ❌ Failing Test Cases (Error Handling) --
+-- Failing Test Cases (Error Handling) 
 
 -- 1. Borrow a non-existent book (Expected: ERROR 'Book does not exist')
 -- CALL borrow_book(1, 999);  
