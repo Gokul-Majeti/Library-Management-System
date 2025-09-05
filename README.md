@@ -1,8 +1,7 @@
 # 📚 Library Management System (MYSQL)
 
-A MySQL-based Library Management System that enables students to **borrow** and **return** books, with **automatic fine calculation** for late returns. The system ensures **data integrity**, provides **error handling**, and allows tracking of **overdue books and fines**.
+A MySQL-based Library Management System that enables students to **borrow** and **return** books, with **automatic fine calculation** for late returns. The system ensures **data integrity**, provides **error handling**.
 
----
 
 ## 🚀 Features
 
@@ -12,15 +11,12 @@ A MySQL-based Library Management System that enables students to **borrow** and 
 * ✅ **Error handling** for invalid student/book IDs
 * ✅ **Track overdue books and fines** with SQL queries
 
----
 
 ## 🛠️ Technologies Used
 
 * **Database**: MySQL
 * **Language**: SQL 
 
-
----
 
 ### Tables
 
@@ -43,5 +39,5 @@ A MySQL-based Library Management System that enables students to **borrow** and 
 * Calculates and updates fines if overdue
 * Updates available book count
 
----
+
 
