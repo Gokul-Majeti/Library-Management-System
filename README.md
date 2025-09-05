@@ -17,8 +17,8 @@ A MySQL-based Library Management System that enables students to **borrow** and 
 ## 🛠️ Technologies Used
 
 * **Database**: MySQL
-* **Language**: SQL (Stored Procedures)
-* **Tool**: MySQL Workbench
+* **Language**: SQL 
+
 
 ---
 
